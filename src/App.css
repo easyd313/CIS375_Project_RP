@@ -17,3 +17,20 @@
 .start_button {
   height: 100%;
 }
+
+.notepad_icon {
+  height: 50px;
+  margin: 50px;
+}
+
+.notepad {
+  margin-left: 25%;
+  height: 500px;
+  width: 400px;
+  background-color: #ffffff;
+}
+.topBar {
+  height: 40px;
+  width: 100%;
+  background-color: #BEBEBE;
+}
